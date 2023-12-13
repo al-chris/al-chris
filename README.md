@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 I'm a passionate Machine Learning Engineer with a keen interest in Computer Vision and Reinforcement Learning.
 
 - 🌱 I'm currently learning NLP.
-<!-- - 💼 I work as a [Your Job Title] at [Your Company/Organization].
-- 🔭 I'm currently working on [Current Project or Focus]. -->
+- 💼 I'm a student at Obafemi Awolowo University.
+<!-- - 🔭 I'm currently working on [Current Project or Focus]. -->
 - 📫 How to reach me: [My Email](christopheraliu07@gmail.com) | [My Linkedin](https://linkedin/al/al-chris)
 
 ## Connect with me:
@@ -34,24 +34,27 @@ I'm a passionate Machine Learning Engineer with a keen interest in Computer Visi
 
 ## Skills
 
-- **Programming Languages:** Python  MATLAB  JavaScript
-- **Web Technologies:** Bootstrap HTML CSS
+- **Programming Languages:** Python, MATLAB
+- **Web Technologies:** HTML, CSS , JavaScript
 - **Tools & Frameworks:** Flask
-- **Databases:** Sqlite
-- **Other Skills:** Prompt Engineering
+- **Databases:** Sqlite3, MySQL
+- **Other Skills:** Git, Command Line, Prompt Engineering
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-1. **Video Transcriber**
+1. **[Video Transcriber](https://github.com/al-chris/Video_Transcriber)**
    - A Flask project allows you to transcribe videos easily. It provides a web interface where you can upload video files, and the application will transcribe the spoken content within the video into text. The transcription is then made available for download in plain text format.
+     
 
-2. **Satellite Image Classification**
+2. **[Satellite Image Classification](https://github.com/al-chris/satelliteImageClassification)**
    - Used a Convolutional Neural Network to classify satellite images.
      
-3. **Adder Circuit**
+     
+3. **[Adder Circuit](https://github.com/al-chris/Adder)**
    - A simple 8-bit adder circuit in MATLAB/SIMULINK
+     
 
 ## Languages and Tools:
 
