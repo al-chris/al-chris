@@ -49,6 +49,8 @@ Here are some of the projects I've worked on:
 
 2. **Satellite Image Classification**
    - Brief description and link to the project repository.
+3. **Adder Circuit**
+   - A simple 8-bit adder circuit in MATLAB/SIMULINK
 
 ## Languages and Tools:
 
