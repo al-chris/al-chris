@@ -25,7 +25,7 @@ I'm a passionate Machine Learning Engineer with a keen interest in Computer Visi
 - 🌱 I'm currently learning NLP.
 <!-- - 💼 I work as a [Your Job Title] at [Your Company/Organization].
 - 🔭 I'm currently working on [Current Project or Focus]. -->
-- 📫 How to reach me: [Email](christopheraliu07@gmail.com) | [My Linkedin](https://linkedin/al/al-chris)
+- 📫 How to reach me: [My Email](christopheraliu07@gmail.com) | [My Linkedin](https://linkedin/al/al-chris)
 
 ## Connect with me:
 
@@ -45,10 +45,11 @@ I'm a passionate Machine Learning Engineer with a keen interest in Computer Visi
 Here are some of the projects I've worked on:
 
 1. **Video Transcriber**
-   - Brief description and link to the project repository.
+   - A Flask project allows you to transcribe videos easily. It provides a web interface where you can upload video files, and the application will transcribe the spoken content within the video into text. The transcription is then made available for download in plain text format.
 
 2. **Satellite Image Classification**
-   - Brief description and link to the project repository.
+   - Used a Convolutional Neural Network to classify satellite images.
+     
 3. **Adder Circuit**
    - A simple 8-bit adder circuit in MATLAB/SIMULINK
 
@@ -69,7 +70,7 @@ Here are some of the projects I've worked on:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>](https://scikit-learn.org/)
 [<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>](https://seaborn.pydata.org/)
 [<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>](https://www.tensorflow.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/)
+<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/) -->
 
 
 <!--
