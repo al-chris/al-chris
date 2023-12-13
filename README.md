@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **al-chris/al-chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,48 +25,50 @@ I'm a passionate Machine Learning Engineer with a keen interest in Computer Visi
 - 🌱 I'm currently learning NLP.
 <!-- - 💼 I work as a [Your Job Title] at [Your Company/Organization].
 - 🔭 I'm currently working on [Current Project or Focus]. -->
-- 📫 How to reach me: [christopheraliu07@gmail.com](christopheraliu07@gmail.com) | [Your LinkedIn] | [Your Personal Website]
+- 📫 How to reach me: [Email](christopheraliu07@gmail.com) | [My Linkedin](https://linkedin/al/al-chris)
 
-- ### Connect with me:
+## Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/al-chris)
-
+<!-- [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/al-chris) -->
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CSS3" width="40" height="40"/>](https://linkedin.com/in/al-chris)
 
 ## Skills
 
-- **Programming Languages:** Python | MATLAB | JavaScript
-- **Web Technologies:** [Bootstrap HTML CSS]
-- **Tools & Frameworks:** [Flask]
-- **Databases:** [Sqlite]
-- **Other Skills:** [Prompt Engineering]
+- **Programming Languages:** Python  MATLAB  JavaScript
+- **Web Technologies:** Bootstrap HTML CSS
+- **Tools & Frameworks:** Flask
+- **Databases:** Sqlite
+- **Other Skills:** Prompt Engineering
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-1. **[Project Name 1]**
+1. **Video Transcriber**
    - Brief description and link to the project repository.
 
-2. **[Project Name 2]**
+2. **Satellite Image Classification**
    - Brief description and link to the project repository.
 
-3. **[Project Name 3]**
-   - Brief description and link to the project repository.
-  
-### Languages and Tools:
+## Languages and Tools:
 
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<!--[![NestJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg)](https://nestjs.com/)
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-[![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)](https://opencv.org/) -->
-[![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)](https://pandas.pydata.org/)
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-[![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)](https://pytorch.org/)
-[![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org/)
-[![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)](https://www.tensorflow.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>](https://www.w3schools.com/css/)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>](https://git-scm.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>](https://www.w3.org/html/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>](https://www.mongodb.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>](https://nestjs.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>](https://nodejs.org)
+[<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>](https://opencv.org/) -->
+[<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>](https://pandas.pydata.org/)
+<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>](https://www.postgresql.org) -->
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>](https://www.python.org)
+[<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>](https://pytorch.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>](https://scikit-learn.org/)
+[<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>](https://seaborn.pydata.org/)
+[<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>](https://www.tensorflow.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/)
+
 
 <!--
 ## GitHub Stats
@@ -83,6 +85,6 @@ Here are some of the projects I've worked on:
 
 ## Let's Connect!
 
-I'm always open to new opportunities and collaborations. Connect with me on [LinkedIn](https://linkedin.com/in/al-chris) or drop me an email at [christopheraliu07@gmail.com].
+I'm always open to new opportunities and collaborations. Connect with me on [LinkedIn](https://linkedin.com/in/al-chris) or drop me an email at [christopheraliu07@gmail.com](christopheraliu07@gmail.com).
 
 Thanks for visiting my profile! 😊
