@@ -36,7 +36,7 @@ I'm a passionate Machine Learning Engineer with a keen interest in Computer Visi
 
 - **Programming Languages:** Python, MATLAB, C++
 - **Web Technologies:** HTML, CSS , JavaScript
-- **Tools & Frameworks:** Flask, TensorFLow, Keras
+- **Tools & Frameworks:** Flask, FastAPI, TensorFLow, Keras, Langchain
 - **Databases:** Sqlite3, MySQL, PostgreSQL
 - **Other Skills:** Git, Command Line
 
