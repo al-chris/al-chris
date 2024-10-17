@@ -25,10 +25,10 @@ I'm a passionate Machine Learning Engineer with an interest in Computer Vision a
 <!-- - 🔭 I'm currently working on [Current Project or Focus]. -->
 <!-- - 📫 How to reach me: [My Email](christopheraliu07@gmail.com) | [My Linkedin](https://linkedin/al/al-chris) -->
 
-## Connect with me:
+<!-- ## Connect with me: -->
 
 <!-- [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/al-chris) -->
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CSS3" width="40" height="40"/>](https://linkedin.com/in/al-chris)
+<!-- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CSS3" width="40" height="40"/>](https://linkedin.com/in/al-chris) -->
 
 ## Skills
 
