@@ -18,14 +18,12 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Chris!
 
-## About Me
+I'm a passionate Machine Learning Engineer with an interest in Computer Vision and Reinforcement Learning.
 
-I'm a passionate Machine Learning Engineer with a keen interest in Computer Vision and Reinforcement Learning.
-
-- 🌱 I'm currently learning NLP.
+- 🌱 I'm currently learning PLC programming.
 - 💼 I'm a student at Obafemi Awolowo University.
 <!-- - 🔭 I'm currently working on [Current Project or Focus]. -->
-- 📫 How to reach me: [My Email](christopheraliu07@gmail.com) | [My Linkedin](https://linkedin/al/al-chris)
+<!-- - 📫 How to reach me: [My Email](christopheraliu07@gmail.com) | [My Linkedin](https://linkedin/al/al-chris) -->
 
 ## Connect with me:
 
@@ -76,12 +74,14 @@ Here are some of the projects I've worked on:
 <!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/) -->
 
 
-<!--
+
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=al-chris&show_icons=true&theme=radical)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al-chris&theme=radical)](https://github.com/al-chris)
 
+<!--
 ## Recent Blog Posts
 
 - [Blog Post 1 Title](Link to Blog Post 1)
@@ -93,4 +93,4 @@ Here are some of the projects I've worked on:
 
 I'm always open to new opportunities and collaborations. Connect with me on [LinkedIn](https://linkedin.com/in/al-chris) or drop me an email at [christopheraliu07@gmail.com](christopheraliu07@gmail.com).
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! 🐸
