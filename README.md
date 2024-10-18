@@ -41,18 +41,19 @@ I'm a passionate Machine Learning Engineer with an interest in Computer Vision a
 ## Projects
 
 Here are some of the projects I've worked on:
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Video_Transcriber)](https://github.com/al-chris/Video_Transcriber) -->
 
-1. **[Video Transcriber](https://github.com/al-chris/Video_Transcriber)**
-   - A Flask project allows you to transcribe videos easily. It provides a web interface where you can upload video files, and the application will transcribe the spoken content within the video into text. The transcription is then made available for download in plain text format.
-     
+<a href="https://github.com/al-chris/github-readmd-stats">
+   <img height=200 aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Video_transcriber" />
+</a>
 
-2. **[Satellite Image Classification](https://github.com/al-chris/satelliteImageClassification)**
-   - Used a Convolutional Neural Network to classify satellite images.
-     
-     
-3. **[Adder Circuit](https://github.com/al-chris/Adder)**
-   - A simple 8-bit adder circuit in MATLAB/SIMULINK
-     
+<a href="https://github.com/al-chris/github-readmd-stats">
+   <img height=200 aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=satelliteImageClassification" />
+</a>
+
+<a href="https://github.com/al-chris/github-readmd-stats">
+   <img height=200 aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Adder" />
+</a>
 
 ## Languages and Tools:
 
