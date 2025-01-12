@@ -29,34 +29,26 @@ I'm a passionate Machine Learning Engineer with an interest in Computer Vision a
 
 Here are some of the projects I've worked on:
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/al-chris/Video_transcriber">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System" alt="Crypto Payment System" height="150" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+  <a href="https://github.com/al-chris/Video_transcriber" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=dracula&hide_border=false" alt="Crypto Payment System" style="width: 100%; height: auto; border-radius: 8px;" />
         </a>
-      </td>
-      <td>
-        <a href="https://github.com/al-chris/Video_transcriber">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Video_transcriber" alt="Video Transcriber" height="150" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/al-chris/Adder">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Adder" alt="Adder" height="150" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/al-chris/satelliteImageClassification">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=satelliteImageClassification" alt="Satellite Image Classification" height="150" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+  <a href="https://github.com/al-chris/Video_transcriber" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Video_transcriber&theme=dracula&hide_border=false" alt="Video Transcriber" style="width: 100%; height: auto; border-radius: 8px;" />
+  </a>
+
+  <a href="https://github.com/al-chris/satelliteImageClassification" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=satelliteImageClassification&theme=dracula&hide_border=false" alt="Satellite Image Classification" style="width: 100%; height: auto; border-radius: 8px;" />
+  </a>
+
+  <a href="https://github.com/al-chris/Adder" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Adder&theme=dracula&hide_border=false" alt="Adder" style="width: 100%; height: auto; border-radius: 8px;" />
+  </a>
+
 </div>
+
 
 
 ## Languages and Tools:
@@ -88,8 +80,8 @@ Here are some of the projects I've worked on:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=al-chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=al-chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&theme=dracula&order=2" height="250" alt="languages graph"  />
 </div>
 
 <!--
