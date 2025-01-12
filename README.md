@@ -1,3 +1,8 @@
+<!-- <div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+-->
+
 # Hello, I'm Chris!
 
 I'm a passionate Machine Learning Engineer with an interest in Computer Vision and Reinforcement Learning.
@@ -23,46 +28,69 @@ I'm a passionate Machine Learning Engineer with an interest in Computer Vision a
 ## Projects
 
 Here are some of the projects I've worked on:
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Video_Transcriber)](https://github.com/al-chris/Video_Transcriber) -->
 
-<a href="https://github.com/al-chris/github-readmd-stats">
-   <img height=200 aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Video_transcriber" />
-</a>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/al-chris/Video_transcriber">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System" alt="Crypto Payment System" height="150" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/al-chris/Video_transcriber">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Video_transcriber" alt="Video Transcriber" height="150" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/al-chris/Adder">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Adder" alt="Adder" height="150" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/al-chris/satelliteImageClassification">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=satelliteImageClassification" alt="Satellite Image Classification" height="150" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<a href="https://github.com/al-chris/github-readmd-stats">
-   <img height=200 aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=satelliteImageClassification" />
-</a>
-
-<a href="https://github.com/al-chris/github-readmd-stats">
-   <img height=200 aligh="center" src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Adder" />
-</a>
 
 ## Languages and Tools:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>](https://www.w3schools.com/css/)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>](https://git-scm.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>](https://www.w3.org/html/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>](https://www.mongodb.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>](https://nestjs.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>](https://nodejs.org)
-[<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>](https://opencv.org/) -->
-[<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>](https://pandas.pydata.org/)
-<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>](https://www.postgresql.org) -->
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>](https://www.python.org)
-[<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>](https://pytorch.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>](https://scikit-learn.org/)
-[<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>](https://seaborn.pydata.org/)
-[<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>](https://www.tensorflow.org)
-<!-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/) -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
 
 
 
 ## GitHub Stats
 
-![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=al-chris&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al-chris&theme=radical)](https://github.com/al-chris)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=al-chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <!--
 ## Recent Blog Posts
