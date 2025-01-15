@@ -23,6 +23,7 @@ I'm a passionate Machine Learning Engineer with an interest in Computer Vision a
 - **Web Technologies:** HTML, CSS , JavaScript
 - **Tools & Frameworks:** Flask, FastAPI, TensorFLow, Keras, Langchain
 - **Databases:** Sqlite3, MySQL, PostgreSQL
+- **Hardware:** ESP32-CAM, ESP8266, Arduino Nano
 - **Other Skills:** Git, Bash
 
 ## Projects
