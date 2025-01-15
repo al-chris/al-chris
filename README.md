@@ -95,6 +95,6 @@ Here are some of the projects I've worked on:
 
 ## Let's Connect!
 
-I'm always open to new opportunities and collaborations. Connect with me on [LinkedIn](https://linkedin.com/in/al-chris) or drop me an email at [christopheraliu07@gmail.com](christopheraliu07@gmail.com).
+I'm always open to new opportunities and collaborations. Connect with me on [LinkedIn](https://linkedin.com/in/al-chris) or [email](mailto:christopheraliu07@gmail.com).
 
 Thanks for visiting my profile! 🐸
