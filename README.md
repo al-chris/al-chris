@@ -32,7 +32,7 @@ Here are some of the projects I've worked on:
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
-  <a href="https://github.com/al-chris/Video_transcriber" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
+  <a href="https://github.com/al-chris/Crypto-Payment-System" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=dracula&hide_border=false" alt="Crypto Payment System" style="width: 100%; height: auto; border-radius: 8px;" />
         </a>
 
