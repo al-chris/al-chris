@@ -21,8 +21,8 @@ I'm a passionate Machine Learning Engineer with an interest in Computer Vision a
 
 - **Programming Languages:** Python, MATLAB, C++
 - **Web Technologies:** HTML, CSS , JavaScript
-- **Tools & Frameworks:** Flask, FastAPI, TensorFLow, Keras, Langchain
-- **Databases:** Sqlite3, MySQL, PostgreSQL
+- **Tools & Frameworks:** FastAPI, Flask, TensorFLow, Keras, Langchain
+- **Databases:** PostgreSQL, Sqlite3, MySQL
 - **Hardware:** ESP32-CAM, ESP8266, Arduino Nano
 - **Other Skills:** Git, Bash
 
@@ -44,8 +44,8 @@ Here are some of the projects I've worked on:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=satelliteImageClassification&theme=dracula&hide_border=false" alt="Satellite Image Classification" style="width: 100%; height: auto; border-radius: 8px;" />
   </a>
 
-  <a href="https://github.com/al-chris/Adder" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Adder&theme=dracula&hide_border=false" alt="Adder" style="width: 100%; height: auto; border-radius: 8px;" />
+  <a href="https://github.com/al-chris/MicrogridSim" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=MicrogridSim&theme=dracula&hide_border=false" alt="Adder" style="width: 100%; height: auto; border-radius: 8px;" />
   </a>
 
 </div>
