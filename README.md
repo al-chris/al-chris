@@ -44,8 +44,8 @@ Here are some of the projects I've worked on:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=MicrogridSim&theme=dracula&hide_border=false" alt="Adder" style="width: 100%; height: auto; border-radius: 8px;" />
   </a>
 
-  <a href="https://github.com/al-chris/satelliteImageClassification" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=satelliteImageClassification&theme=dracula&hide_border=false" alt="Satellite Image Classification" style="width: 100%; height: auto; border-radius: 8px;" />
+  <a href="https://github.com/al-chris/sentinelNet" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=sentinelNet&theme=dracula&hide_border=false" alt="Satellite Image Classification" style="width: 100%; height: auto; border-radius: 8px;" />
   </a>
 
 </div>
