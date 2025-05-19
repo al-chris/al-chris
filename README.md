@@ -36,8 +36,8 @@ Here are some of the projects I've worked on:
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=dracula&hide_border=false" alt="Crypto Payment System" style="width: 100%; height: auto; border-radius: 8px;" />
         </a>
 
-  <a href="https://github.com/al-chris/Video_transcriber" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Video_transcriber&theme=dracula&hide_border=false" alt="Video Transcriber" style="width: 100%; height: auto; border-radius: 8px;" />
+  <a href="https://github.com/al-chris/PIPELINE" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=PIPELINE&theme=dracula&hide_border=false" alt="Video Transcriber" style="width: 100%; height: auto; border-radius: 8px;" />
   </a>
 
   <a href="https://github.com/al-chris/satelliteImageClassification" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
