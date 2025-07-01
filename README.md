@@ -83,8 +83,8 @@ Here are some of the projects I've worked on:
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=al-chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=al-chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=al-chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=al-chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=al-chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   </picture>
   
   <picture>
