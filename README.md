@@ -96,7 +96,7 @@ Here are some of the projects I've worked on:
 
 ## GitHub Stats
 
-<div align="center">
+<div style="display:flex; justify-contnet:space-between; align-items:center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=al-chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" media="(prefers-color-scheme: dark)"/>
     <source srcset="https://github-readme-stats.vercel.app/api?username=al-chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
@@ -104,9 +104,9 @@ Here are some of the projects I've worked on:
   </picture>
   
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&order=2" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&order=2" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&order=2" height="200" alt="languages graph"  />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&langs_count=4&theme=dracula&order=2" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&langs_count=4&theme=default&order=2" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&langs_count=4&theme=default&order=" height="200" alt="languages graph"  />
   </picture>  
 </div>
 
