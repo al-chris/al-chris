@@ -82,7 +82,11 @@ Here are some of the projects I've worked on:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=al-chris&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&theme=dracula&order=2" height="200" alt="languages graph"  />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&order=2" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&order=2" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=al-chris&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&order=2" height="200" alt="languages graph"  />
+  </picture>  
 </div>
 
 <!--
