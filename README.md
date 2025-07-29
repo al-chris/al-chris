@@ -5,10 +5,11 @@
 
 # Hello, I'm Chris!
 
-I'm a passionate Machine Learning Engineer with an interest in Computer Vision and Reinforcement Learning.
-
--  I'm currently learning PLC programming.
--  I'm a student at Obafemi Awolowo University.
+- I'm a passionate Machine Learning engineer with hands-on experience in Computer Vision, Reinforcement Learning, and practical AI applications.
+- I enjoy building full-stack and backend projects, often working with FastAPI, Flask, and modern Python frameworks.
+- I'm actively exploring PLC programming and industrial automation.
+- I love tackling real-world problems and sharing my solutions through open source.
+- Currently a student at Obafemi Awolowo University, constantly learning and collaborating within the tech community.
 <!-- -  I'm currently working on [Current Project or Focus]. -->
 <!-- -  How to reach me: [My Email](christopheraliu07@gmail.com) | [My Linkedin](https://linkedin/al/al-chris) -->
 
@@ -32,14 +33,14 @@ Here are some of the projects I've worked on:
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
-  <a href="https://github.com/al-chris/Crypto-Payment-System" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
+  <a href="https://github.com/al-chris/sentinelNet" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=dracula&hide_border=false" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=default&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=default&hide_border=false" alt="Crypto Payment System" style="width: 100%; height: auto; border-radius: 8px;" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=sentinelNet&theme=dracula&hide_border=false" media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=sentinelNet&theme=default&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=sentinelNet&theme=default&hide_border=false" alt="Satellite Image Classification" style="width: 100%; height: auto; border-radius: 8px;" />
     </picture>
   </a>
-
+  
   <a href="https://github.com/al-chris/PIPELINE" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=PIPELINE&theme=dracula&hide_border=false" media="(prefers-color-scheme: dark)"/>
@@ -56,11 +57,11 @@ Here are some of the projects I've worked on:
     </picture>
   </a>
 
-  <a href="https://github.com/al-chris/sentinelNet" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
+  <a href="https://github.com/al-chris/Crypto-Payment-System" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=sentinelNet&theme=dracula&hide_border=false" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=sentinelNet&theme=default&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=sentinelNet&theme=default&hide_border=false" alt="Satellite Image Classification" style="width: 100%; height: auto; border-radius: 8px;" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=dracula&hide_border=false" media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=default&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=default&hide_border=false" alt="Crypto Payment System" style="width: 100%; height: auto; border-radius: 8px;" />
     </picture>
   </a>
 
