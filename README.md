@@ -29,7 +29,7 @@
 
 ## Projects
 
-Here are some of the projects I've worked on:
+Here are some projects I've worked on:
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
