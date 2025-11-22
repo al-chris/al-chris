@@ -27,46 +27,6 @@
 - **Hardware:** ESP32-CAM, ESP8266, Arduino Nano
 - **Other Skills:** Git, Bash
 
-## Projects
-
-Here are some projects I've worked on:
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-
-  <a href="https://github.com/al-chris/sentinelNet" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=sentinelNet&theme=dracula&hide_border=false" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=sentinelNet&theme=default&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=sentinelNet&theme=default&hide_border=false" alt="Satellite Image Classification" style="width: 100%; height: auto; border-radius: 8px;" />
-    </picture>
-  </a>
-  
-  <a href="https://github.com/al-chris/PIPELINE" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=PIPELINE&theme=dracula&hide_border=false" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=PIPELINE&theme=default&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=PIPELINE&theme=default&hide_border=false" alt="Video Transcriber" style="width: 100%; height: auto; border-radius: 8px;" />
-    </picture>
-  </a>
-
-  <a href="https://github.com/al-chris/MicrogridSim" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=MicrogridSim&theme=dracula&hide_border=false" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=MicrogridSim&theme=default&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=MicrogridSim&theme=default&hide_border=false" alt="Adder" style="width: 100%; height: auto; border-radius: 8px;" />
-    </picture>
-  </a>
-
-  <a href="https://github.com/al-chris/Crypto-Payment-System" style="flex: 1 1 calc(33.333% - 32px); max-width: calc(33.333% - 32px); text-align: center; box-sizing: border-box;">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=dracula&hide_border=false" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=default&hide_border=false" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=al-chris&repo=Crypto-Payment-System&theme=default&hide_border=false" alt="Crypto Payment System" style="width: 100%; height: auto; border-radius: 8px;" />
-    </picture>
-  </a>
-
-</div>
-
 
 
 ## Languages and Tools:
